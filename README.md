@@ -4,7 +4,7 @@ Motor Driver HAT for Raspberry Pi is a module designed to control 2 DC motors si
 
 
 
-## Configure the I2C (''' default is 0x40 ''') 
+## Configure the I2C (default is 0x40) 
  * 0x40 is the default address of the motor driver at A5,you can also Change the I2C address which is vary from  0x40 to 0x5F (A0-A5)
  * Default A5 is connected to ground (0v) and rest of A0-A4 are not connected to neither 5v nor ground (means open circuit)
   <img src="https://github.com/sbcshop/Motor-Driver-HAT/blob/main/I2C_configure.JPG" /> 
