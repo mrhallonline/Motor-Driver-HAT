@@ -18,6 +18,8 @@ Motor Driver HAT for Raspberry Pi is a module designed to control 2 DC motors si
     <img src = "https://github.com/sbcshop/Motor-Driver-HAT/blob/main/img.JPG" />
     
    * short  A0-A4 them, the final I2C slave address is 0x5F.
+
+
     <img src ="https://github.com/sbcshop/Motor-Driver-HAT/blob/main/img1.JPG" />
   
 ## How To ?
