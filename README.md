@@ -11,7 +11,7 @@ Motor Driver HAT for Raspberry Pi is a module designed to control 2 DC motors si
   
  * You can change resistors of A0-A4 to configure the slave address. If you solder a resistor or short it,The address of the I2C range from 0x40 to 0x5F.
  * For Example :
-   * A5 is 0, A0-A4 are disconnected (don’t weld), so they are 0 as well. The final I2C slave address is 0x40
+   * A5 is default 0, and  A0-A4 are disconnected as you see in hardware, it means 0. The I2C slave address is 0x40(
 
 ### How To ?
 
