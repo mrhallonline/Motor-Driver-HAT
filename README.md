@@ -13,7 +13,8 @@ Motor Driver HAT for Raspberry Pi is a module designed to control 2 DC motors si
  * For Example :
    * A5 is default 0, and  A0-A4 are disconnected as you see in hardware, it means 0. The I2C slave address is 0x40 (default address)
   <img src = "https://github.com/sbcshop/Motor-Driver-HAT/blob/main/img.JPG" />
-### How To ?
+  
+## How To ?
 
 * Stack Motor driver HAT on Raspberry Pi 40 Pin header.
 
