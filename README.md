@@ -16,6 +16,8 @@ Motor Driver HAT for Raspberry Pi is a module designed to control 2 DC motors si
    * A5 is default 0, and  A0-A4 are disconnected as you see in hardware, it means 0. The I2C slave address is 0x40 (default address)
    
     <img src = "https://github.com/sbcshop/Motor-Driver-HAT/blob/main/img.JPG" />
+    
+   * short  A0-A4 them, the final I2C slave address is 0x5F. You can use i2cdetect tool to detect i2C devices on Raspberry P
   
 ## How To ?
 
